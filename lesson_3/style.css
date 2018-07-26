@@ -1,0 +1,48 @@
+body {
+	background-color: #DEE2E3;
+}
+
+
+.container {
+	border: 3px solid #C1D8DE;
+	background-color: #C1D8DE;
+	margin-right: 75%;
+	 position:fixed;
+}
+
+
+
+.Chapter {
+	text-align:center;
+	margin-left: 450px;
+	margin-right: 450px;
+	color: #1422E3;
+}
+
+.note {
+	text-align:center;
+}
+
+
+.chapter1 {
+	font-weight: bold;
+}
+
+.chapter2 {
+	font-style: italic;
+	color: bold;
+}
+
+
+.pippin {
+	text-decoration: underline;
+}
+
+.lands {
+	text-decoration: line-through;
+}
+
+
+
+
+
